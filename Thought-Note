@@ -1,0 +1,34 @@
+NOTE: Open with Live Server
+
+1. I have created a Front-end E-commerce Project. (Brand - RAW)
+
+2. Utilized Technologies: HTML, CSS, JavaScript, Bootstrap.
+
+3. Imported necessary resources from Bootstrap, Font Awesome, and Google Fonts websites.
+
+4. ncluded the imported resources in the project.
+
+5. Developed all required webpages as per project guidelines.
+
+6. At first i have created Header.html file which would be having website logo and search bar and Login button and Cart button.
+    By the time the window size compresed as per different device views, automatically a hamburger menu will come to view the options.
+
+7. Next I have created Footer.html file which having all the links for navigating to different links respective.
+
+8. Dynamically injected the Header and Footer to all the remaining html files using Javascript.
+
+9. I have created All Products page which carry all the product images for Women, Men and Kids.
+
+10. Each (Women, Men and Kids) having individual pages, and they all are responsive.
+
+11. Created Login page which is also responsive and having working functionality of showing Successful login or not. (Written JS code for it to work)
+
+12. Created Cart.html which is also responsive and havig working functionality of add items to cart and we can Increase the count and decrease the count
+    of cart item and also it will show you the NO items message when there is no message.
+
+13. For index page i have implemented Carousel which will used to slide the photos on the main page. Based on the webpage width number of cards will decrease.
+    Implemented this sliding functionality using JS and fully responsive.
+
+14. Every webpage is fully responsive for both medium and small devices.
+
+15. Every file is neatly placed and added section comments to know easily.
